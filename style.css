@@ -197,7 +197,7 @@ span{
 .foot_panel2{
     background-color: #222f3d;
     color: white;
-    height: 300px;
+    height: 350px;
     display: flex;
     justify-content: space-evenly;
 }
